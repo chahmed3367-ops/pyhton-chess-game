@@ -41,7 +41,7 @@ pip install python-chess
 Navigate to the project folder and execute:
 
 ```bash
-python chess.py
+python chess_game.py
 ```
 
 ## 🎮 Game Modes
